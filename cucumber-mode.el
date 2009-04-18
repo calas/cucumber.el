@@ -17,6 +17,11 @@
 ;; Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 
 ;; add this to your .emacs to load the mode
+;; short version
+;; (load "~/.emacs.d/elisp/cucumber-mode.el")
+;;
+;; long version (this one does not work in my laptop, so switched to short one)
+;;
 ;; (add-to-list 'load-path "~/.emacs.d/elisp/cucumber-mode")
 ;; ;; and load it
 ;; (autoload 'cucumber-mode "cucumber-mode" "Mode for editing cucumber files" t)
