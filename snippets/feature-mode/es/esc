@@ -1,0 +1,4 @@
+#name: Escenario: Nombre
+# --
+Escenario: ${1:Nombre}
+  $0

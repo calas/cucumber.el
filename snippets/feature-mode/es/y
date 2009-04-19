@@ -1,0 +1,4 @@
+#name: Y algo más
+# --
+Y ${1:algo más}
+$0

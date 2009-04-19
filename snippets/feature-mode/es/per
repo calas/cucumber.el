@@ -1,0 +1,4 @@
+#name: Pero no se debe dar el resultado
+# --
+Pero ${1:no se debe dar el resultado}
+$0

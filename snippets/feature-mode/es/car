@@ -1,0 +1,7 @@
+#name: Característica: Nombre
+# --
+Característica: ${1:Nombre}
+  Para poder ${2:obtener algún valor de negocio}
+  ${3:Rol} necesitará ${4:esta nueva Característica}
+
+  $0

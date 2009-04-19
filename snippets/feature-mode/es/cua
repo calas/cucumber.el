@@ -1,0 +1,4 @@
+#name: Cuando alguna acción
+# --
+Cuando ${1:alguna acción}
+$0
