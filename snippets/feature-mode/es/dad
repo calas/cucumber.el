@@ -1,0 +1,4 @@
+#name: Dado cierta condición inicial
+# --
+Dado ${1:cierta condición inicial}
+$0

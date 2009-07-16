@@ -1,0 +1,4 @@
+#name: Entonces algún resultado esperado
+# --
+Entonces ${1:algún resultado esperado}
+$0
